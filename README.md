@@ -8,4 +8,5 @@ A beautiful birthday wish page made with love and magic. ✨
 🎉 Full of animations, petals & stars
 
 ## 🔗 View the page
-Click the link to see the full birthday wish experience!
+https://rutujamurkut98.github.io/it-s-Birthday_23
+
